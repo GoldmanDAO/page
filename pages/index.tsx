@@ -24,8 +24,8 @@ const Home: NextPage = () => {
         const typed = new Typed(typer.current || "" , {
             strings: [
                 "We are builders",
-                "We are investors",
-                "We are team players",
+                "We are explorers",
+                "We are founders",
                 "We are <span class='font-bold'> Goldman DAO"],
             startDelay: 300,
             typeSpeed: 70,
